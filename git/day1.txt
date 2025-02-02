@@ -1,2 +1,10 @@
 This is the first file of git. 
 Git is a version control ststem which allow us to keep track of our source code.
+Some Common commands of git are: 
+1) git init
+2) git status
+3) git add
+4) git commit -m 
+5) git clone
+6) git push <branch-name> 
+7) git pull <branch-name> 
