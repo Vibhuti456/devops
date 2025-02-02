@@ -1,1 +1,2 @@
 This is the first file of git. 
+Git is a version control ststem which allow us to keep track of our source code.
